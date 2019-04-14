@@ -9,7 +9,6 @@ Example:
     y = 1 + 2x1 + 3x2
 """
 
-import numpy as np
 import torch
 from matplotlib import pyplot as plt
 
